@@ -154,6 +154,7 @@ nav ul .menubar {
     float: left;
     font-size: 0;
 }
+/* The same to .clearfix */
 .article-preview:after {
     content: '';
     display: block;
